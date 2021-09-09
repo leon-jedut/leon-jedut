@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @leon-jedut
-- 👀 I’m interested in Computer Science, IoT, music production and videogames
+- 📚 I’m currently 2nd year computer science and information technologies student @FERI Maribor
+- 👀 I’m interested in WebDev, IoT, music production and videogames
 - 🌱 I’m currently learning Angular with Java spring
+
 
 
 <!---
